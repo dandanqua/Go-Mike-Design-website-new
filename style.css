@@ -324,18 +324,22 @@ a:hover {
 }
 
 .row-no-gutters {
-    margin-right: 5px;
-    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    margin-left: 5px!important;
+    margin-right: 5px!important;
 }
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
-    padding-right: 5px;
-    padding-left: 5px;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 #bloc-2-services p {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .navbar {
@@ -559,7 +563,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    border: 1px solid #7e5909;
+    border: 1px solid #c27956;
 }
 
 .scrollToTop {
@@ -880,19 +884,19 @@ h1 {
 }
 
 .bg-dots-bg {
-    background-image: url("./img/dots-bg.png");
+    background-image: url("./img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta\ made\ sign.jpg");
+    background-image: url("img/atlanta\ made\ sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta\ made\ sign\ orange.jpg");
+    background-image: url("img/atlanta\ made\ sign\ orange.webp");
 }
 
 @media (max-width: 1024px) {
