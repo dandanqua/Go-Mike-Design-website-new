@@ -1,6 +1,7 @@
-link
-https://dandanqua.github.io/Go-Mike-Design-website-new/contact.html
-Project #4: GoMike
+Project #4: GoMike optimisation
+
+link - https://dandanqua.github.io/Go-Mike-Design-website-new/contact.html
+
 
                                    The W3C CSS Validation 
                                    
